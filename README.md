@@ -1,4 +1,4 @@
-# <p align="center"> Made in Ghana :ghana: </p>
+c# <p align="center"> Made in Ghana :ghana: </p>
 
 A curated awesome list of tech folks, resources, communities and more by Ghanaians.
 
@@ -285,7 +285,8 @@ If you are interested in contributing, kindly read the [contribution guideline](
 
 <details open>
  <summary><h2>Web Development</h2></summary>
- 
+
+ - [Jeffrey Mintah](https://www.linkedin.com/in/jeffrey-m-a846a2229)) - Web Developer (Django, ReactJs)
  - [Richard Djarbeng](https://www.linkedin.com/in/richarddjarbeng/) - Web Developer (ReactJS, PHP, NodeJS)
  - [Sosu Alfred](https://www.linkedin.com/in/sosu-alfred) - Fullstack Developer(ReactJs, Laravel)
  - [Stephen Ofori Yeboah](https://www.linkedin.com/in/stephen-ofori-yeboah-86140120b) - Software Developer(ASP.NET, C#, AWS)
